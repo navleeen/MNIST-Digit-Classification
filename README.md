@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ---
 
 ## Dataset
-The project uses the [MNIST dataset](http://yann.lecun.com/exdb/mnist/), a standard benchmark dataset containing 70,000 images of handwritten digits.
+The project uses the MNIST dataset, a standard benchmark dataset containing 70,000 images of handwritten digits.
 
 ---
 
@@ -70,4 +70,5 @@ This project is for educational purposes. You can use and modify it freely.
 ---
 
 ## Author
-Created by [Your Name](https://github.com/<your-username>).
+Created by [Navleen Kaur Bhatia](https://github.com/navleeen).
+
